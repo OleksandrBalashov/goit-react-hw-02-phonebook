@@ -10,7 +10,6 @@
 
 .label {
   display: block;
-  width: 100%;
 }
 
 .label:not(:last-child) {
@@ -23,7 +22,7 @@
 
 .input {
   width: 100%;
-  padding: 10px;
+  padding: 10px 20px;
   border: 2px solid #000000;
   border-radius: 10px;
   outline: none;
