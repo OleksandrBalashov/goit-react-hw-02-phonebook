@@ -5,7 +5,6 @@ const initialState = {
     name: '',
     number: ''
 };
-
 export default class ContactForm extends Component {
     state = {
         ...initialState
